@@ -1,0 +1,7 @@
+[flaked]
+exclude =
+ migrations
+ _pycache_,
+ manage.py,
+ settings.py
+
